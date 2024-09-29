@@ -4,7 +4,7 @@
     <title>My Simple Web App</title>
 </head>
 <body style="background-color: pink;">
-    <h1>What Is The Best Color?</h1>
+    <h1>What Is The Best Color in the world?</h1>
 
     <%
         String color = request.getParameter("color");
